@@ -4,4 +4,4 @@ Git status Test
 Git diff Test
 
 Create a dev btanch
-Creating a new branch quick & simple
+Creating a new branch quick and simple
